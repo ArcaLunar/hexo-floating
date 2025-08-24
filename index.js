@@ -443,7 +443,7 @@ function injectCSS(hexo) {
     });
 }
 
-injectCSS(ctx);
+injectCSS(hexo);
 hexo.extend.tag.register('sethover', sethover, true)
 hexo.extend.tag.register('hover', hover, true)
 hexo.extend.tag.register('explain', explain, true)
