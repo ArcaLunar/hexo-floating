@@ -1,0 +1,17 @@
+{
+  "name": "hexo-floating",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "Simple floating content box for HEXO blogs.",
+  "keywords": [
+    "hexo",
+    "hexo-tag",
+    "tag"
+  ],
+  "author": "ArcaLunar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArcaLunar/hexo-floating"
+  }
+}
